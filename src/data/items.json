@@ -1,0 +1,35 @@
+
+
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 120,
+    "imageUrl": "./img/book.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Car",
+    "price": 44,
+    "imageUrl": "./img/car.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Lamp",
+    "price": 123,
+    "imageUrl": "./img/lamp.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Laptop",
+    "price": 23,
+    "imageUrl": "./img/laptp.jpg"
+  }
+  ,
+  {
+    "id": 5,
+    "name": "Candel",
+    "price": 45,
+    "imageUrl": "./img/candel.jpg"
+  }
+]
